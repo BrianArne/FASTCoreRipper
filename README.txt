@@ -1,1 +1,1 @@
-Aren't you tired of that bad GUI?
+$python scrippy.py <FileOfSavedHtml> <CodeFileName>
